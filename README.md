@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @krish8learn
 - 👀 I’m interested in backend development.
-- 🌱 I’m currently learning kubernates, php.
 - 💞️ I’m looking to collaborate on any golang projects.
 - 📫 How to reach me -> mail me at krish9857@outlook.com
 
